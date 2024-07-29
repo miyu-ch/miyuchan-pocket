@@ -1,6 +1,9 @@
 # Miyuchan Pocket
 
 A pocket edition of Miyuchan ; A Miyuchan version that can be used everywhere on discord.
+---
+
+Status : 🚧Work In Progress🚧
 
 ---
 
