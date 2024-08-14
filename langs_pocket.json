@@ -1,0 +1,38 @@
+{
+    "INFORMATION-TO-TRANSLATORS": {
+        "1": "Names that are between the symbols [ ] are variables, do not translate them.",
+        "2": "Verify if there are no mistakes, typos before submitting",
+        "3": "Only translate the values and not the keys, e.g: ''my_key'': ''my value!'' ",
+        "4": "Scroll down to find your language, if it doesn't exist already, you can make it by Copy & Paste the whole 'EN' section",
+        "5": "Section name must be language initials e.g Japan = JAP"
+    },
+
+    
+    "EN": {
+        "configuration_title": "Configuration Panel",
+        "configuration_description": "Configure Miyuchan Pocket for your profile",
+        "configuration_lang": "Lang",
+        "modal_lang_confirm": "Correctly set lang to",
+        "modal_lang_error": "Oops! An error occured :confused: Are you sure the lang is correct?",
+        "bookmark_message_saved": "Message saved!",
+        "bookmark_message_saved_description": "You can view your saved messages with `/view bookmarks`",
+        "bookmark_embed_description": "All your messages saved",
+        "bookmark_requested_by": "Requested by",
+        "dice": "The number is :drum:"
+
+
+    },
+
+    "FR": {
+        "configuration_title": "Configuration",
+        "configuration_description": "Configure Miyuchan Pocket pour ton profile",
+        "configuration_lang": "Langue",
+        "modal_lang_confirm": "La langue est maintenant",
+        "modal_lang_error": "Oups! Une erreur s'est produite :confused: Es-tu sûr d'avoir entré une langue disponible?",
+        "bookmark_message_saved": "Message sauvegardé!",
+        "bookmark_message_saved_description": "Tu peux voir les messages sauvegardés avec le /view bookmarks",
+        "bookmark_embed_description": "Tous vos messages sauvegardés",
+        "bookmark_requested_by": "Demandé par",
+        "dice": "Le nombre est :drum:"
+    }
+}
